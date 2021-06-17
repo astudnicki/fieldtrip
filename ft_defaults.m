@@ -1,4 +1,5 @@
 function ft_defaults
+%
 
 % FT_DEFAULTS (ending with "s") sets some general settings in the global variable
 % ft_default (without the "s") and takes care of the required path settings. You can
